@@ -1,0 +1,12 @@
+# Requirements untuk DocuVision AI OCR
+Pillow>=10.0.0
+pytesseract>=0.3.10
+customtkinter>=5.2.0
+python-docx>=1.1.0
+reportlab>=4.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Dependencies tambahan untuk optimalisasi
+pdf2image>=1.16.3
+img2pdf>=0.4.4
